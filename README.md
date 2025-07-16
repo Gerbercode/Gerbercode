@@ -1,53 +1,85 @@
+<h1 align="center">💻 Gerber Neves</h1>
+<h3 align="center">Desenvolvedor Web & Criador de Soluções Profissionais</h3>
 
-💻 Gerber Neves | Desenvolvedor Web e Criador de Soluções Profissionais  
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor-FullStack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Disponível%20para%20projetos-freelance-brightgreen?style=for-the-badge" />
+</p>
 
-🎯 Bem-vindo ao meu GitHub!
-Aqui, você encontrará projetos que demonstram minha habilidade em criar **sites completos, responsivos e profissionais** para diversas áreas. Estou focado em entregar soluções tecnológicas que atendam às necessidades de clientes e empresas.  
+---
 
-🚀 Sobre Mim  
-Sou um desenvolvedor apaixonado por tecnologia, focado no **desenvolvimento web completo**, desde o design até o backend.  
-Minhas principais habilidades incluem:  
-- HTML5: Estruturo páginas de forma semântica e otimizada.  
-- CSS3: Crio layouts modernos, responsivos e visualmente impactantes.  
-- JavaScript: Adiciono interatividade e dinamismo às aplicações.  
-- React: Desenvolvo interfaces modernas e componentes reutilizáveis.  
-- Git & GitHub: Trabalho com versionamento e colaboração em projetos.  
-- MySQL: Possuo conhecimentos básicos em banco de dados relacionais.  
-- C#: Tenho noções de programação orientada a objetos.  
+## 🎯 Bem-vindo ao meu GitHub!
 
-Atualmente, estou me aprofundando no desenvolvimento backend com Node.js e explorando tecnologias no-code, como Bubble e Mitra, para a criação de aplicativos e sistemas robustos.  
+Aqui você encontrará projetos que demonstram minha habilidade em criar **sites completos, responsivos e profissionais**, voltados para diferentes áreas e necessidades.  
+Meu foco é entregar **soluções digitais eficientes, funcionais e com visual moderno** para empresas, empreendedores e pessoas físicas.
 
-🌟 O que faço?  
-✅ Desenvolvimento de websites completos e responsivos para diversos segmentos.  
-✅ Criação de soluções personalizadas e dinâmicas para atender às necessidades dos clientes.  
-✅ Exploração de ferramentas no-code, com o objetivo de futuramente entregar sistemas e aplicativos prontos para o mercado.  
+---
 
-Minha meta é oferecer design profissional, funcionalidade completa e experiência excepcional aos usuários.
+## 🚀 Sobre Mim
 
-📂 Tecnologias e Ferramentas  
+Sou um desenvolvedor apaixonado por tecnologia, focado no **desenvolvimento web completo**, desde o design até o backend. Tenho facilidade com projetos personalizados e sempre busco entregar algo mais do que o esperado.  
 
-| Tecnologia        |             Descrição                   |  
-|-------------------|-----------------------------------------|
-| HTML5        | Estrutura e semântica de páginas web.   |
-| CSS3         | Estilização e responsividade.          |
-| JavaScript   | Interatividade e lógica.               |
-| React        | Framework para interfaces modernas.    |
-| Node.js      | Desenvolvimento backend (em progresso).|
-| MySQL        | Banco de dados relacional.             |
-| Git & GitHub | Controle de versões e colaboração.     |
-| C#           | Programação orientada a objetos.       |
-| Bubble & Mitra| Desenvolvimento de sistemas no-code.   |
+### 💼 Minhas principais habilidades:
+- ⚙️ **HTML5** – Estrutura de páginas otimizada e semântica  
+- 🎨 **CSS3** – Estilização moderna e responsiva  
+- 💡 **JavaScript** – Funcionalidade e interatividade  
+- ⚛️ **React** – Interfaces modernas e componentes reutilizáveis  
+- 🔁 **Git & GitHub** – Versionamento e colaboração  
+- 🧩 **MySQL** – Banco de dados relacional  
+- 🖥️ **C#** – Programação orientada a objetos  
+- 🧰 **Node.js** – Backend (em desenvolvimento)  
+- ⚡ **Bubble & Mitra** – Ferramentas no-code para sistemas completos  
 
-📈 Meus Objetivos  
-- Aprofundar conhecimentos em backend, incluindo Node.js e MySQL.  
-- Expandir habilidades no desenvolvimento de aplicativos e softwares robustos usando Bubble e Mitra.  
-- Criar um portfólio sólido com projetos inovadores e prontos para o mercado.  
-- Oferecer soluções completas para empresas e empreendedores.  
+---
 
-📫 Entre em Contato  
-💡 Se você precisa de um profissional dedicado para criar ou melhorar seu site ou está buscando soluções digitais personalizadas, entre em contato:  
-- E-mail: gerberneves9@gmail.com - gerbernivaldo@gamil.com  
-- LinkedIn: www.linkedin.com/in/gerber-neves
-- Portfólio: Ainda não disponivel
+## 🌟 O que eu faço?
 
-🎉 Obrigado por visitar meu perfil! Explore meus repositórios e sinta-se à vontade para colaborar ou compartilhar ideias. Vamos construir algo incrível juntos!  
+✅ Desenvolvimento de websites completos e responsivos  
+✅ Criação de soluções web dinâmicas, modernas e personalizadas  
+✅ Exploração de ferramentas no-code para entregar soluções rápidas  
+✅ Protótipos e sistemas prontos para o mercado  
+
+🎯 Minha missão é entregar design profissional, funcionalidade de alto nível e uma experiência incrível para o usuário.
+
+---
+
+## 📂 Tecnologias e Ferramentas
+
+| 🧠 Tecnologia        | 📋 Descrição                           |
+|----------------------|----------------------------------------|
+| **HTML5**            | Estrutura e semântica de páginas web   |
+| **CSS3**             | Estilização responsiva e moderna       |
+| **JavaScript**       | Lógica e interatividade no front-end   |
+| **React**            | Construção de interfaces SPA           |
+| **Node.js**          | Backend com JavaScript (em progresso)  |
+| **MySQL**            | Gerenciamento de banco de dados        |
+| **Git & GitHub**     | Versionamento e colaboração em equipe  |
+| **C#**               | Desenvolvimento desktop e OOP          |
+| **Bubble & Mitra**   | Criação de sistemas no-code            |
+
+---
+
+## 📈 Objetivos Atuais
+
+- 🔍 Aprofundar conhecimentos em backend (Node.js + banco de dados)  
+- 📲 Desenvolver sistemas web e apps com ferramentas no-code  
+- 🧠 Criar um portfólio sólido e focado em soluções práticas  
+- 💼 Atuar como freelancer em projetos reais para o mercado  
+
+---
+
+## 📫 Entre em Contato
+
+💬 Se você está procurando alguém para criar ou melhorar seu site, sistema ou ideia digital, sinta-se à vontade para me chamar:
+
+- 📧 **gerberneves6@gmail.com**  
+- 📧 **gerbernivaldo@gmail.com**   
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gerber-neves)  
+- 🌐 **Portfólio**: *Em construção*
+
+---
+
+## 🎉 Obrigado por visitar meu perfil!
+
+Explore meus repositórios, fique à vontade para colaborar ou compartilhar ideias.  
+**Vamos construir algo incrível juntos!** 🚀✨
